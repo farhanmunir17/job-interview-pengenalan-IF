@@ -73,7 +73,7 @@ teknologi pendukung saya menggunakan Visual Studio Code kemudian untuk framework
 
 ## 6. Desain User Experience dan User Interface
 
-
+![Prototype web](/Screenshot 2023-10-26 080523.png)
 
 ## 7. Demonstrasi Video
 
