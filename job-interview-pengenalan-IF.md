@@ -1,14 +1,14 @@
 ## 1.1 Latar Belakang
 
-Online shop kini menjadi trend karena kemudahan nya untuk berbelanja tanpa harus keluar rumah dan dapat meminimalisir biaya dengan itu saya tertarik membuat website ini untuk memudahkan konsumen bertransaksi dengan mudah, dengan menggunakan website ini user dapat melihat berbagai macam jenis produk yang tersedia dan jika ingin membeli sangat mudah, dapat melihat rating sehingga konsumen mengetahui produk mana yang menjadi favorit
+Online shop kini menjadi trend karena kemudahan nya untuk berbelanja tanpa harus keluar rumah dan dapat meminimalisir biaya dengan itu saya tertarik membuat website ini untuk memudahkan konsumen bertransaksi dengan mudah, dengan menggunakan website ini user dapat melihat berbagai macam jenis produk yang tersedia dan jika ingin membeli sangat mudah
 Cara kerja:
 1. menggunakan website dengan sistem online agar memudahkan pembeli yang berada di luar kota tanpa harus datang ke toko
 2. menggunakan perangkat komputer yg tersedia di dalam toko yang digunakan untuk melakukan pemesanan barang dengan sistem self service
 
 ## 1.2. Deksripsi Teknologi Informasi
-1.Database menggunakan JSON (Jenis ini memungkinkan para pengguna dapat melakukan, melihat, dan memodifikasi data.) (javascript)
-2.Frontend menggunakan HTML, CSS, JAVASCRIPT
-3.Backend menggunakan java dan javascript frameworknya Angular (apk/web yang berinteraksi dengan pengguna dengan secara dinamis menulis ulang halaman web saat ini dengan data baru dari server web, bukan metode default browser web yang memuat seluruh halaman baru.)
+1.Database menggunakan JSON (Jenis ini memungkinkan para pengguna dapat melakukan, melihat, dan memodifikasi data.) 
+2.Frontend menggunakan HTML, CSS, javascript
+3.Backend menggunakan javascript frameworknya tailwindcss (mempermudah kamu untuk mempertahankan konsistensi di seluruh desain. Dengan sistem skalanya yang terintegrasi, kamu dapat memastikan padding, margin, warna, dan elemen lainnya seragam di semua bagian dan dirancang untuk lebih ringan dalam hal ukuran file.)
 4.Untuk Design/gambaran awal aplikasinya saya menggunakan FIGMA
 5.Untuk Membuat programnya menggunakan Visual Studio Code
 6.Operasi OS menggunakan Windows
@@ -32,7 +32,7 @@ tema:
  |pengguna | melihat daftar produk | sehingga mengetahui produk mana yg diinginkan | ⭐⭐⭐⭐⭐
  |pengguna | melihat detail produk | sehingga mengetahui deskripsi,ukuran,harga produk| ⭐⭐⭐⭐⭐
  |pengguna | memesan produk  | sehingga dapat langsung mengetahui berapa jumlah yg dibeli,diskon yang didapatkan, harga yg harus dibayar, kembalian  | ⭐⭐⭐⭐
- |pengguna | melihat rating produk | sehingga mengetahui rekomendasi produk| ⭐⭐⭐⭐
+ |pengguna | melihat rating produk | sehingga mengetahui rekomendasi produk favorit| ⭐⭐⭐⭐
  |pengguna | mencari produk | sehingga memudahkan pengguna menemukan produk yg dicari| ⭐⭐⭐⭐
  |pengguna | menambahkan produk ke favorit | sehingga memudahkan pengguna untuk mencari produk favorit nya| ⭐⭐⭐⭐
  |pengguna | memasukan nama | sehingga dapat mengetahui siapa pemesan| ⭐⭐⭐⭐⭐
@@ -66,14 +66,17 @@ erDiagram
 
 flowchart TD
     id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: Javascript - Laravel] <--> id3[Web Server: Javascript - Laravel]  
-
+ *Hardware-> mesin komputasi 
+          -> sensor
+          -> res
+ *software
 
 ## 5. Teknologi, Library, dan Framework
 teknologi pendukung saya menggunakan Visual Studio Code kemudian untuk framework menggunakan lavarel(Laravel adalah framework PHP yang open source dan dirancang untuk memudahkan pengembangan web dengan sintaks yang mudah dipelajari.) dan untuk library menggunakan lavarel
 
 ## 6. Desain User Experience dan User Interface
 
-![Prototype web](/Screenshot 2023-10-26 080523.png)
+![Prototype web](/desain.png)
 
 ## 7. Demonstrasi Video
 
