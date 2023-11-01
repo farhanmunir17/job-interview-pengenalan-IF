@@ -7,7 +7,7 @@ Cara kerja:
 
 ## 1.2. Deksripsi Teknologi Informasi
 1.Database menggunakan JSON (Jenis ini memungkinkan para pengguna dapat melakukan, melihat, dan memodifikasi data.) (javascript)
-2.Frontend menggunakan HTML,CSS,JAVASCRIPT
+2.Frontend menggunakan HTML, CSS, JAVASCRIPT
 3.Backend menggunakan java dan javascript frameworknya Angular (apk/web yang berinteraksi dengan pengguna dengan secara dinamis menulis ulang halaman web saat ini dengan data baru dari server web, bukan metode default browser web yang memuat seluruh halaman baru.)
 4.Untuk Design/gambaran awal aplikasinya saya menggunakan FIGMA
 5.Untuk Membuat programnya menggunakan Visual Studio Code
