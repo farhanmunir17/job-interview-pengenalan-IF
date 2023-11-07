@@ -1,9 +1,8 @@
 ## 1.1 Latar Belakang
 
-Online shop kini menjadi trend karena kemudahan nya untuk berbelanja tanpa harus keluar rumah dan dapat meminimalisir biaya dengan itu saya tertarik membuat website ini untuk memudahkan konsumen bertransaksi dengan mudah, dengan menggunakan website ini user dapat melihat berbagai macam jenis produk yang tersedia dan jika ingin membeli sangat mudah
-Cara kerja:
-1. menggunakan website dengan sistem online agar memudahkan pembeli yang berada di luar kota tanpa harus datang ke toko
-2. menggunakan perangkat komputer yg tersedia di dalam toko yang digunakan untuk melakukan pemesanan barang dengan sistem self service
+ Sebagai seorang mahasiswa yang hidup jauh dari orang tua kita dituntut untuk bisa hidup mandiri salah satunya dapat me manage keuangan pribadi mulai dari kebutuhan makan sehari hari, kebutuhan kuliah dan sebagainya. Sayapun sering mendengar keluh kesah teman2 saya bahkan saya sendiri pun mengalami nya "kemana sih perginya uang saya kok cepat habis, gaada jejak nya??!!".
+ Dengan berbagai kemudahan di era modern ini kita dapat melakukan apapun, kapanpun, dan dimanapun hanya dengan menggunakan smartphone dan internet. Dengan alat itu kita juga dapat mencatat pemasukan dan pengeluaran kita setiap hari agar kita dapat mengetahui untuk apa uang kita digunakan dan berapa rata-rata pengeluaran kita.
+
 
 ## 1.2. Deksripsi Teknologi Informasi
 1.Database menggunakan JSON (Jenis ini memungkinkan para pengguna dapat melakukan, melihat, dan memodifikasi data.) 
