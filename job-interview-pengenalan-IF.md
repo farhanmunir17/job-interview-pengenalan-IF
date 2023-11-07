@@ -77,6 +77,9 @@ teknologi pendukung saya menggunakan Visual Studio Code kemudian
 
 ![Prototype web](/gambar1.png)
 ![Prototype web](/gambar2.png)
+![Prototype web](/gambar3.png)
+![Prototype web](/gambar4.png)
+![Prototype web](/gambar5.png)
 
 ## 7. Demonstrasi Video
 
