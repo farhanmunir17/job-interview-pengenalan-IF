@@ -3,21 +3,21 @@
  Sebagai seorang mahasiswa yang hidup jauh dari orang tua kita dituntut untuk bisa hidup mandiri salah satunya dapat me manage keuangan pribadi mulai dari kebutuhan makan sehari hari, kebutuhan kuliah dan sebagainya. Sayapun sering mendengar keluh kesah teman2 saya bahkan saya sendiri pun mengalami nya "kemana sih perginya uang saya kok cepat habis, gaada jejak nya??!!".
  Dengan berbagai kemudahan di era modern ini kita dapat melakukan apapun, kapanpun, dan dimanapun hanya dengan menggunakan smartphone dan internet. Dengan alat itu kita juga dapat mencatat pemasukan dan pengeluaran kita setiap hari agar kita dapat mengetahui untuk apa uang kita digunakan dan berapa rata-rata pengeluaran kita.
 
-
 ## 1.2. Deksripsi Teknologi Informasi
-1.Database menggunakan JSON (Jenis ini memungkinkan para pengguna dapat melakukan, melihat, dan memodifikasi data.) 
+1.Database menggunakan My SQL 
 2.Frontend menggunakan HTML, CSS, javascript
-3.Backend menggunakan javascript frameworknya tailwindcss (mempermudah kamu untuk mempertahankan konsistensi di seluruh desain. Dengan sistem skalanya yang terintegrasi, kamu dapat memastikan padding, margin, warna, dan elemen lainnya seragam di semua bagian dan dirancang untuk lebih ringan dalam hal ukuran file.)
+3.Backend menggunakan PHP
 4.Untuk Design/gambaran awal aplikasinya saya menggunakan FIGMA
 5.Untuk Membuat programnya menggunakan Visual Studio Code
 6.Operasi OS menggunakan Windows
+
 ## 1.3. Branding
-merek: KLINIK DURIAN
-tagline : 
+merek: Save money
+tagline : use your money as best as possible
 campaign : 
-*~membuat (website/tampilan) di dalam komputer dengan sistem self service & website online (untuk pembeli luar kota) membuat pengguna dapat melihat, membaca detail produk kemudian dapat memesan sesuai keinginan pembeli dan (di dalamnya dapat mengetahui jumlah barang, total harga, diskon, dan kembalian)
+aplikasi keuangan berbasis web untuk mencatat pemasukan dan pengeluaran uang yang bisa di akses kapanpun dan dimanapun, apk ini bertujuan agar kita dapat mengetahui uang kita dipakai untuk apa saja dan menge  
 pengguna sasaran :
-~20 sesorang yang sudah memiliki pekerjaan/uang tetap (karena harga produk yg cukup mahal)
+*+15 sesorang yang
 seseorang yang menyukai kuliner 
 seseorang yang menyukai durian
 
@@ -28,11 +28,11 @@ tema:
 ~cepat
 
 ## 2. User Story  
- |pengguna | melihat daftar produk | sehingga mengetahui produk mana yg diinginkan | ⭐⭐⭐⭐⭐
- |pengguna | melihat detail produk | sehingga mengetahui deskripsi,ukuran,harga produk| ⭐⭐⭐⭐⭐
- |pengguna | memesan produk  | sehingga dapat langsung mengetahui berapa jumlah yg dibeli,diskon yang didapatkan, harga yg harus dibayar, kembalian  | ⭐⭐⭐⭐
- |pengguna | melihat rating produk | sehingga mengetahui rekomendasi produk favorit| ⭐⭐⭐⭐
- |pengguna | mencari produk | sehingga memudahkan pengguna menemukan produk yg dicari| ⭐⭐⭐⭐
+ |pengguna | input pemasukan | sehingga mengetahui produk mana yg diinginkan | ⭐⭐⭐⭐⭐
+ |pengguna | input pengeluaran | sehingga mengetahui deskripsi,ukuran,harga produk| ⭐⭐⭐⭐⭐
+ |pengguna | melihat total pemasukan dan pengeluaran  | sehingga dapat langsung mengetahui berapa jumlah yg dibeli,diskon yang didapatkan, harga yg harus dibayar, kembalian  | ⭐⭐⭐⭐
+ |pengguna | rata rata pengeluaran per bulan | sehingga mengetahui rekomendasi produk favorit| ⭐⭐⭐⭐
+ *|pengguna | mencari produk | sehingga memudahkan pengguna menemukan produk yg dicari| ⭐⭐⭐⭐
  |pengguna | menambahkan produk ke favorit | sehingga memudahkan pengguna untuk mencari produk favorit nya| ⭐⭐⭐⭐
  |pengguna | memasukan nama | sehingga dapat mengetahui siapa pemesan| ⭐⭐⭐⭐⭐
  |pengguna | keterangan member | sehingga dapat mengetahui apakah dia terdaftar sebagai member atau belum| ⭐⭐⭐⭐
@@ -71,7 +71,7 @@ flowchart TD
  *software
 
 ## 5. Teknologi, Library, dan Framework
-teknologi pendukung saya menggunakan Visual Studio Code kemudian untuk framework menggunakan lavarel(Laravel adalah framework PHP yang open source dan dirancang untuk memudahkan pengembangan web dengan sintaks yang mudah dipelajari.) dan untuk library menggunakan lavarel
+teknologi pendukung saya menggunakan Visual Studio Code kemudian 
 
 ## 6. Desain User Experience dan User Interface
 
