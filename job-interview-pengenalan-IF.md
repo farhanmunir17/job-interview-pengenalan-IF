@@ -75,7 +75,8 @@ teknologi pendukung saya menggunakan Visual Studio Code kemudian
 
 ## 6. Desain User Experience dan User Interface
 
-![Prototype web](/desain.png)
+![Prototype web](/gambar1.png)
+![Prototype web](/gambar2.png)
 
 ## 7. Demonstrasi Video
 
