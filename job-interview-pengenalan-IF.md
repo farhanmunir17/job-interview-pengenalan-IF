@@ -15,11 +15,11 @@
 merek: Save money
 tagline : use your money as best as possible
 campaign : 
-aplikasi keuangan berbasis web untuk mencatat pemasukan dan pengeluaran uang yang bisa di akses kapanpun dan dimanapun, apk ini bertujuan agar kita dapat mengetahui uang kita dipakai untuk apa saja dan menge  
+aplikasi keuangan berbasis web untuk mencatat pemasukan dan pengeluaran uang yang bisa di akses kapanpun dan dimanapun, apk ini bertujuan agar kita dapat mengetahui uang kita dipakai untuk apa saja dan mengetahui rata-rata pengeluaran setiap bulan nya  
 pengguna sasaran :
-*+15 sesorang yang
-seseorang yang menyukai kuliner 
-seseorang yang menyukai durian
+*+15 sesorang 
+seseorang yang  
+seseorang yang 
 
 tema:
 ~mudah
