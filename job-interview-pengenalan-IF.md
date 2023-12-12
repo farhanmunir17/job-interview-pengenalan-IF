@@ -17,9 +17,10 @@ tagline : use your money as best as possible
 campaign : 
 aplikasi keuangan berbasis web untuk mencatat pemasukan dan pengeluaran uang yang bisa di akses kapanpun dan dimanapun, apk ini bertujuan agar kita dapat mengetahui uang kita dipakai untuk apa saja dan mengetahui rata-rata pengeluaran setiap bulan nya  
 pengguna sasaran :
-*+15 sesorang 
-seseorang yang  
-seseorang yang 
+laki-laki dan perempuan 15+ tahun 
+seseorang yang kesulitan mengatur keuangan nya
+seseorang yang ingin disiplin
+seseorang yang ingin memanage keuangan nya
 
 tema:
 ~mudah
@@ -28,18 +29,15 @@ tema:
 ~cepat
 
 ## 2. User Story  
- |pengguna | input pemasukan | sehingga mengetahui produk mana yg diinginkan | ⭐⭐⭐⭐⭐
- |pengguna | input pengeluaran | sehingga mengetahui deskripsi,ukuran,harga produk| ⭐⭐⭐⭐⭐
- |pengguna | melihat total pemasukan dan pengeluaran  | sehingga dapat langsung mengetahui berapa jumlah yg dibeli,diskon yang didapatkan, harga yg harus dibayar, kembalian  | ⭐⭐⭐⭐
- |pengguna | rata rata pengeluaran per bulan | sehingga mengetahui rekomendasi produk favorit| ⭐⭐⭐⭐
- *|pengguna | mencari produk | sehingga memudahkan pengguna menemukan produk yg dicari| ⭐⭐⭐⭐
- |pengguna | menambahkan produk ke favorit | sehingga memudahkan pengguna untuk mencari produk favorit nya| ⭐⭐⭐⭐
- |pengguna | memasukan nama | sehingga dapat mengetahui siapa pemesan| ⭐⭐⭐⭐⭐
- |pengguna | keterangan member | sehingga dapat mengetahui apakah dia terdaftar sebagai member atau belum| ⭐⭐⭐⭐
- |pengguna | kode barang| sehingga memudahkan pengguna menemukan produk yg dicari| ⭐⭐⭐
- |pengguna | total harga | sehingga dapat mengetahui berapa yang harus dibayarkan| ⭐⭐⭐⭐⭐
- |pengguna | kembalian | sehingga dapat mengetahui kembalian dari uang yang dibayarkan| ⭐⭐⭐⭐
- |pengguna |  menambahkan alamat | sehingga dapat mengetahui kemana produk akan dikirimkan| ⭐⭐⭐⭐⭐
+ |pengguna | login | sehingga data pengguna aman/  | ⭐⭐⭐⭐⭐
+ |pengguna | input pemasukan | sehingga pengguna dapat menginput pemasukan yang masuk | ⭐⭐⭐⭐⭐
+ |pengguna | input pengeluaran | sehingga mempermudah pengguna dalam mengevaluasi mengatur keuangan| ⭐⭐⭐⭐⭐
+ |pengguna | input tanggal pengeluaran | sehingga memudahkan pengguna untuk mengetahui kapan terjadinya pengeluaran itu| ⭐⭐⭐⭐
+ |pengguna | input keterangan pengeluaran | sehingga memudahkan pengguna untuk mengetahui dipakai apa pengeluaran itu| ⭐⭐⭐
+ |pengguna | input jumlah pengeluaran | sehingga pengguna mengetahui jumlah pengeluaran yang di keluarkan/dipakai| ⭐⭐⭐⭐⭐
+ |pengguna | total pemasukan dan pengeluaran  | sehingga pengguna dapat melihat total pemasukan dan pengeluaran dalam jangka waktu yg diinginkan | ⭐⭐⭐⭐
+ |pengguna | rata rata pengeluaran per bulan | sehingga pengguna mengetahui rata-rata pengeluarannya dipakai untuk apa saja| ⭐⭐⭐⭐
+ |pengguna | laporan pemasukan & pengeluaran | sehingga pengguna mengetahui total pemasukan & pengeluaran selama jangka waktu yg diinginkan  | ⭐⭐⭐⭐
 
 *## 3. Struktur Data
 
@@ -71,7 +69,7 @@ flowchart TD
  *software
 
 ## 5. Teknologi, Library, dan Framework
-teknologi pendukung saya menggunakan Visual Studio Code kemudian 
+teknologi pendukung saya menggunakan Visual Studio Code  
 
 ## 6. Desain User Experience dan User Interface
 
